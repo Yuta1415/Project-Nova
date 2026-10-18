@@ -1,1 +1,1 @@
-// payment gateway module
+const apiUrl = 'https://payments.technova.dev';
